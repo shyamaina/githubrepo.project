@@ -119,4 +119,13 @@ int main() {
 
     return 0;
 }
+Output-
+InOrder traversal: 10 14 22 30 59 89 90
+PreOrder traversal: 10 14 89 22 59 30 90
+PostOrder traversal: 30 59 22 90 89 14 10
+Search for 14: Found
+Delete 90
+InOrder traversal after deletion: 10 14 22 30 59 89 
+
+------Code Execution Successful-------
 
